@@ -1,3 +1,3 @@
-### HELLO WORLD PROJECT
+﻿### HELLO WORLD PROJECT
 
-J'ai modifi� le README
+J'ai modifié le README
